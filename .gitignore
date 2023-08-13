@@ -1,0 +1,14 @@
+# OS Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Enviroments
+venv/
+env/
+*.env
+
+# IDE Files
+.idea/
+*.pycharm
