@@ -28,7 +28,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = []  # '*'
 
-
 # Application definition
 
 INSTALLED_APPS = [
@@ -136,6 +135,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 #CORS_ALLOW_ALL_ORIGIN = True
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",
+    "http://localhost:5173"
     #  "http://192.168.3.26:5173"
 ]
